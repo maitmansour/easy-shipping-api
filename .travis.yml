@@ -17,7 +17,6 @@ cache:
 matrix:
   include:
     - php: 7.1.9
-      dist: precise
 
 # Update composer
 before-install:
