@@ -42,3 +42,6 @@
 
 #vendor files
 /vendor/
+
+#Log file
+/web/log/
