@@ -16,7 +16,7 @@ cache:
 # Matrix to test in every php version
 matrix:
   include:
-    - php: 5.3
+    - php: 7.1.9
       dist: precise
 
 # Update composer
